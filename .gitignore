@@ -75,3 +75,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+LD45/Saved/Logs/LD45.log
