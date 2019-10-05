@@ -627,3 +627,154 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.05-09.51.21:068][557]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
 [2019.10.05-09.51.46:709][ 55]LogSlate: Window 'Project Settings' being destroyed
 [2019.10.05-09.51.46:730][ 55]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.05-09.54.43:896][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/PlayLevel" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.05-09.54.43:977][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.10.05-09.54.44:064][ 19]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/PlayLevel498F36A14AE09498C29953942BACE1B1.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap'
+[2019.10.05-09.54.44:068][ 19]LogFileHelpers: Saving map 'PlayLevel' took 0.173
+[2019.10.05-09.54.49:757][234]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.05-09.55.20:321][967]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.05-09.55.20:327][967]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.05-09.55.21:541][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.10.05-09.55.21:767][ 30]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/Minimal_Default3CE7D7224F5F17C4F3E45BB9FE62232A.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.05-09.55.34:053][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.55.34:195][759]LogAssetEditorManager: Opening Asset editor for World /Game/_Levels/PlayLevel.PlayLevel
+[2019.10.05-09.55.34:228][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.10.05-09.55.36:169][759]LogSlate: Window 'Save Content' being destroyed
+[2019.10.05-09.55.36:179][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gamemode/GM_Standard" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/Blueprints/Gamemode/GM_Standard.uasset" SILENT=true
+[2019.10.05-09.55.36:249][759]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/GM_Standard640BF3D749DC5E8278A04683083597C6.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/Blueprints/Gamemode/GM_Standard.uasset'
+[2019.10.05-09.55.36:328][759]Cmd: MAP LOAD FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.05-09.55.36:328][759]LightingResults: New page: Lighting Build
+[2019.10.05-09.55.36:411][759]LoadErrors: New page: Loading map: PlayLevel.umap
+[2019.10.05-09.55.37:032][759]MapCheck: New page: Map Check
+[2019.10.05-09.55.37:032][759]LightingResults: New page: Lighting Build
+[2019.10.05-09.55.37:691][759]LogUObjectHash: Compacting FUObjectHashTables data took  15.85ms
+[2019.10.05-09.55.38:195][759]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.05-09.55.38:195][759]LogAIModule: Creating AISystem for world PlayLevel
+[2019.10.05-09.55.38:329][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.05-09.55.38:398][759]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.05-09.55.38:398][759]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2019.10.05-09.55.38:401][759]LogFileHelpers: Loading map 'PlayLevel' took 2.148
+[2019.10.05-09.56.07:278][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.56.29:034][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.56.33:674][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.56.34:963][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.05-09.56.34:977][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/PlayLevel" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.05-09.56.35:011][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.05-09.56.35:115][ 63]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/PlayLevelB5E33DB641A9D973B341048245BF729A.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap'
+[2019.10.05-09.56.37:126][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.56.43:814][571]LogActorFactory: Actor Factory created Cube
+[2019.10.05-09.56.44:853][598]LogActorFactory: Actor Factory created Cube
+[2019.10.05-09.56.47:498][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.56.57:558][296]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.05-09.57.03:803][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.57.11:553][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.57.13:518][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.57.17:146][456]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.05-09.57.20:385][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.57.20:872][673]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.05-09.57.26:032][969]Cmd: TRANSACTION UNDO
+[2019.10.05-09.57.26:032][969]LogEditorTransaction: Undo Scale Actors
+[2019.10.05-09.57.28:888][128]Cmd: TRANSACTION UNDO
+[2019.10.05-09.57.28:888][128]LogEditorTransaction: Undo Scale Actors
+[2019.10.05-09.57.32:560][347]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.05-09.57.41:695][887]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.05-09.57.44:249][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.05-09.57.44:266][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/PlayLevel" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.05-09.57.44:298][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.05-09.57.44:423][ 34]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/PlayLevel281CC14348E1262E6ADD9C9A87E8D139.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap'
+[2019.10.05-09.57.54:462][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/PlayLevel" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.05-09.57.54:495][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.05-09.57.54:602][618]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/PlayLevel1E55F45845EAA3044F2CE99B70A35B37.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap'
+[2019.10.05-09.58.01:553][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/PlayLevel" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.05-09.58.01:583][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.10.05-09.58.01:735][ 30]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/PlayLevelAC20229948CE57EF66602998700CE345.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap'
+[2019.10.05-09.58.03:383][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.58.03:958][160]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.05-09.58.10:675][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.58.28:784][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.58.30:090][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/PlayLevel" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.05-09.58.30:122][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.10.05-09.58.30:225][698]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/PlayLevelD50BE43E4F829BD9F14CAF84E24B0B65.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap'
+[2019.10.05-09.58.34:390][943]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.05-09.58.34:542][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.05-09.58.34:557][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/PlayLevel" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.05-09.58.34:590][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.05-09.58.34:692][945]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/PlayLevel4081533942BFCE9D6B0534B06B7C09B2.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap'
+[2019.10.05-09.58.36:527][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.05-09.58.36:667][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/_Levels/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.10.05-09.58.36:699][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.05-09.58.36:774][ 50]PIE: New page: PIE session: PlayLevel (5 oct. 2019 13:58:36)
+[2019.10.05-09.58.37:081][ 50]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_PlayLevel
+[2019.10.05-09.58.37:113][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031751s)
+[2019.10.05-09.58.37:128][ 50]LogAIModule: Creating AISystem for world PlayLevel
+[2019.10.05-09.58.37:139][ 50]LogPlayLevel: PIE: World Init took: (0.025067s)
+[2019.10.05-09.58.37:140][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/PlayLevel.PlayLevel to /Game/_Levels/UEDPIE_0_PlayLevel.PlayLevel (0.057494s)
+[2019.10.05-09.58.37:166][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.10.05-09.58.37:273][ 50]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.05-09.58.37:418][ 50]LogInit: FAudioDevice initialized.
+[2019.10.05-09.58.37:684][ 50]LogLoad: Game class is 'GM_Standard_C'
+[2019.10.05-09.58.37:842][ 50]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 60) at 2019.10.05-11.58.37
+[2019.10.05-09.58.37:855][ 50]LogWorld: Bringing up level for play took: 0.012679
+[2019.10.05-09.58.38:424][ 50]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0315 seconds. Added 20 classes and 0 folders.
+[2019.10.05-09.58.38:431][ 50]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.05-09.58.38:431][ 50]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.05-09.58.38:431][ 50]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.05-09.58.38:557][ 50]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.05-09.58.38:739][ 50]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_PlayLevel 1,539
+[2019.10.05-09.58.38:739][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/_Levels/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.10.05-09.58.41:726][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/_Levels/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.10.05-09.58.41:773][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.05-09.58.41:914][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.05-09.58.41:914][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/_Levels/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.10.05-09.58.42:034][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.05-09.58.42:066][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.05-09.58.42:097][185]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.05-09.58.45:082][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.58.57:032][ 60]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Character/BP_BasePawn.BP_BasePawn
+[2019.10.05-09.58.58:907][ 60]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0288 seconds. Added 121 classes and 0 folders.
+[2019.10.05-09.59.03:761][141]LogRenderer: Reallocating scene render targets to support 864x472 Format 10 NumSamples 1 (Frame:83).
+[2019.10.05-09.59.06:673][304]LogSlate: Took 0.058165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.05-09.59.25:797][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.59.33:315][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-09.59.35:819][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.05-09.59.35:843][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/_Levels/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.10.05-09.59.35:843][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.05-09.59.35:844][ 18]PIE: New page: PIE session: PlayLevel (5 oct. 2019 13:59:35)
+[2019.10.05-09.59.35:844][ 18]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_PlayLevel
+[2019.10.05-09.59.35:846][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001964s)
+[2019.10.05-09.59.35:846][ 18]LogAIModule: Creating AISystem for world PlayLevel
+[2019.10.05-09.59.35:847][ 18]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2019.10.05-09.59.35:847][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/PlayLevel.PlayLevel to /Game/_Levels/UEDPIE_0_PlayLevel.PlayLevel (0.002959s)
+[2019.10.05-09.59.35:970][ 18]LogUObjectHash: Compacting FUObjectHashTables data took  45.47ms
+[2019.10.05-09.59.35:990][ 18]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.05-09.59.36:089][ 18]LogInit: FAudioDevice initialized.
+[2019.10.05-09.59.36:117][ 18]LogLoad: Game class is 'GM_Standard_C'
+[2019.10.05-09.59.36:119][ 18]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_PlayLevel.PlayLevel up for play (max tick rate 60) at 2019.10.05-11.59.36
+[2019.10.05-09.59.36:119][ 18]LogWorld: Bringing up level for play took: 0.000681
+[2019.10.05-09.59.36:133][ 18]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.05-09.59.36:133][ 18]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.10.05-09.59.36:133][ 18]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.10.05-09.59.36:133][ 18]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.10.05-09.59.36:133][ 18]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_PlayLevel 0,969
+[2019.10.05-09.59.36:133][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/_Levels/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.10.05-09.59.42:959][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.05-09.59.49:701][799]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/_Levels/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.10.05-09.59.49:701][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.05-09.59.49:732][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.05-09.59.49:732][799]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel' with GeneratedClass '/Game/_Levels/PlayLevel.PlayLevel_C' with ClassGeneratedBy '/Game/_Levels/PlayLevel.PlayLevel:PersistentLevel.PlayLevel'
+[2019.10.05-09.59.49:777][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.05-09.59.49:781][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.05-09.59.49:811][801]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.05-09.59.52:843][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-10.01.52:558][210]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.10.05-10.02.03:082][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-10.02.16:223][474]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.05-10.02.23:845][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_PlayerController" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/Blueprints/Controller/BP_PlayerController.uasset" SILENT=true
+[2019.10.05-10.02.23:860][928]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/BP_PlayerController05833AEA4A5D200CA3A091A13D303EFF.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/Blueprints/Controller/BP_PlayerController.uasset'
+[2019.10.05-10.02.57:444][520]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.05-10.03.39:112][998]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.05-10.03.43:041][231]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.05-10.03.43:046][231]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.05-10.03.44:286][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/PlayLevel" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.05-10.03.44:328][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.05-10.03.44:534][303]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/PlayLevel642E48DC417A64A9D4ADF1AE2A90A581.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap'
