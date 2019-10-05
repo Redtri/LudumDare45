@@ -778,3 +778,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.05-10.03.44:286][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/PlayLevel" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.10.05-10.03.44:328][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
 [2019.10.05-10.03.44:534][303]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/PlayLevel642E48DC417A64A9D4ADF1AE2A90A581.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap'
+[2019.10.05-10.05.51:059][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.05-10.05.55:539][170]LogSlate: Window 'BP_BasePawn' being destroyed
+[2019.10.05-10.05.55:546][170]LogSlate: Window 'BP_BasePawn' being destroyed
+[2019.10.05-10.06.00:833][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.05-10.06.00:976][474]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Controller/BP_PlayerController.BP_PlayerController
+[2019.10.05-10.06.03:008][559]LogSlate: Took 0.062009 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.05-10.06.19:936][506]BlueprintLog: New page: Compile BP_PlayerController
+[2019.10.05-10.06.20:182][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.10.05-10.06.21:304][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_PlayerController" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/Blueprints/Controller/BP_PlayerController.uasset" SILENT=true
+[2019.10.05-10.06.21:431][564]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/BP_PlayerController4336BF374E8B4D7A0BF984A5F7FC63DD.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/Blueprints/Controller/BP_PlayerController.uasset'
+[2019.10.05-10.06.43:672][839]BlueprintLog: New page: Compile BP_PlayerController
+[2019.10.05-10.06.43:866][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.10.05-10.06.44:103][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controller/BP_PlayerController" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/Blueprints/Controller/BP_PlayerController.uasset" SILENT=true
+[2019.10.05-10.06.44:132][850]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/BP_PlayerController36C0084049CEB1F789C403A6A9BC6E87.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/Blueprints/Controller/BP_PlayerController.uasset'
+[2019.10.05-10.07.01:283][801]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.05-10.08.44:588][199]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.05-10.08.44:597][199]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.05-10.08.45:909][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Levels/PlayLevel" FILE="../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.05-10.08.45:953][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.10.05-10.08.46:123][330]LogSavePackage: Moving '../../../../../../Github/Projets/LudumDare45/LD45/Saved/PlayLevelD679B3204FD76C4EB309F9A45E4A2F24.tmp' to '../../../../../../Github/Projets/LudumDare45/LD45/Content/_Levels/PlayLevel.umap'
