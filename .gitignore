@@ -77,3 +77,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 LD45/Saved/Logs/LD45.log
+
+LD45/Saved/Logs/
